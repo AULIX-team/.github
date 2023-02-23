@@ -1,5 +1,5 @@
 
-<img src='img/aulix-wd.jpg'>
+<img src='aulix-wd.jpg'>
 
 # Команда AULIX 💼
 
