@@ -1,6 +1,5 @@
 
-<img src='aulix-wd.jpg'>
-
+<a href="https://github.com/AULIX-team"><img src="https://i.ibb.co/JqgLSdD/aulix-wd.jpg" alt="aulix-wd" border="0"></a>
 # Команда AULIX 💼
 
 ## В команде трудятся:
